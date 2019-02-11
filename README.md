@@ -1,6 +1,7 @@
 # NLP-Challenges
-NLP Hackerank Challenges
 
-Each of the challenges is stored in a folder with the respective name.
+The challenges in this repository were completed in accordance of securing an Internship at [Mesh Education](https://meshedu.org/).
 
-All of the challenges create a class of the model and then train it. To test edit the name of the file in the test function with the name of the testing file.
+Each folder contains the name of the challenges and the respective code to execute it.
+
+In the comming few days I will add the explanatory jupyter notebook for each of them.
